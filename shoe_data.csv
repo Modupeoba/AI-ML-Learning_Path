@@ -1,0 +1,58 @@
+Shoe_name,Size,Price,Brand,Category,Color,Material,Stock_Quantity,Gender,Country_of_Origin,Warranty_Period,Closure_Type,Style
+Nike,43,$20,Nike,Sports,Red,Leather,100,Unisex,China,1 year,Lace-up,Sneaker
+Zara,47,$35,Zara,Casual,Black,Synthetic,150,Women,Germany,1 year,Slip-on,Boot
+Adidas,25,$56,Adidas,Sports,White,Canvas,200,Men,India,1 year,Buckle,Sandal
+Puma,36,$29,Puma,Sports,Blue,Leather,120,Unisex,China,6 months,Lace-up,Sneaker
+Timberland,38,$40,Timberland,Casual,Brown,Synthetic,180,Men,Germany,1 year,Slip-on,Boot
+Kenzo,24,$55,Kenzo,Formal,Green,Leather,160,Women,India,6 months,Buckle,Sandal
+New Balance,43,$50,New Balance,Sports,Gray,Mesh,140,Men,China,1 year,Lace-up,Sneaker
+Reebok,42,$60,Reebok,Sports,Black,Synthetic,190,Women,Germany,6 months,Slip-on,Boot
+Converse,37,$45,Converse,Casual,White,Canvas,210,Unisex,India,1 year,Buckle,Sandal
+Under Armour,44,$70,Under Armour,Sports,Blue,Leather,130,Men,China,1 year,Lace-up,Sneaker
+Vans,39,$35,Vans,Casual,Black,Canvas,170,Unisex,Germany,6 months,Slip-on,Boot
+Skechers,40,$30,Skechers,Casual,Gray,Mesh,110,Women,India,1 year,Buckle,Sandal
+Asics,41,$65,Asics,Sports,Red,Leather,150,Men,China,1 year,Lace-up,Sneaker
+Fila,45,$55,Fila,Sports,White,Synthetic,140,Unisex,Germany,6 months,Slip-on,Boot
+Saucony,46,$50,Saucony,Sports,Black,Mesh,160,Men,India,1 year,Buckle,Sandal
+Hush Puppies,40,$52,Hush Puppies,Casual,Brown,Leather,130,Women,China,1 year,Lace-up,Sneaker
+Brooks,41,$67,Brooks,Sports,Blue,Synthetic,170,Men,Germany,6 months,Slip-on,Boot
+Merrell,42,$48,Merrell,Outdoor,Green,Leather,150,Unisex,India,1 year,Buckle,Sandal
+Salomon,44,$72,Salomon,Outdoor,Black,Synthetic,140,Men,China,1 year,Lace-up,Sneaker
+Lacoste,39,$55,Lacoste,Casual,White,Canvas,110,Women,Germany,6 months,Slip-on,Boot
+Dockers,40,$38,Dockers,Casual,Brown,Leather,180,Men,India,1 year,Buckle,Sandal
+Clarks,43,$63,Clarks,Formal,Black,Synthetic,120,Unisex,China,1 year,Lace-up,Sneaker
+Crocs,37,$25,Crocs,Casual,White,Synthetic,150,Women,Germany,6 months,Slip-on,Boot
+Bata,41,$33,Bata,Casual,Black,Synthetic,130,Men,India,1 year,Buckle,Sandal
+Aldo,39,$59,Aldo,Formal,Gray,Leather,140,Unisex,China,1 year,Lace-up,Sneaker
+Gucci,44,$200,Gucci,Luxury,Black,Leather,90,Women,Germany,6 months,Slip-on,Boot
+Prada,42,$250,Prada,Luxury,White,Leather,80,Men,India,1 year,Buckle,Sandal
+Balenciaga,45,$300,Balenciaga,Luxury,Black,Leather,70,Unisex,China,1 year,Lace-up,Sneaker
+Versace,40,$220,Versace,Luxury,White,Leather,60,Men,Germany,6 months,Slip-on,Boot
+Hermes,41,$275,Hermes,Luxury,Brown,Leather,50,Women,India,1 year,Buckle,Sandal
+Dolce & Gabbana,42,$180,Dolce & Gabbana,Luxury,Black,Leather,100,Unisex,China,1 year,Lace-up,Sneaker
+Chanel,39,$210,Chanel,Luxury,White,Leather,90,Men,Germany,6 months,Slip-on,Boot
+Burberry,43,$230,Burberry,Luxury,Black,Leather,80,Women,India,1 year,Buckle,Sandal
+Givenchy,44,$260,Givenchy,Luxury,White,Leather,70,Unisex,China,1 year,Lace-up,Sneaker
+Louis Vuitton,46,$290,Louis Vuitton,Luxury,Black,Leather,60,Men,Germany,6 months,Slip-on,Boot
+Yeezy,38,$240,Yeezy,Luxury,White,Leather,50,Women,India,1 year,Buckle,Sandal
+Off-White,37,$280,Off-White,Luxury,Black,Leather,40,Unisex,China,1 year,Lace-up,Sneaker
+Ralph Lauren,42,$150,Ralph Lauren,Casual,Gray,Leather,190,Men,Germany,6 months,Slip-on,Boot
+Tommy Hilfiger,40,$130,Tommy Hilfiger,Casual,Blue,Leather,170,Women,India,1 year,Buckle,Sandal
+Michael Kors,43,$195,Michael Kors,Luxury,Black,Leather,160,Unisex,China,1 year,Lace-up,Sneaker
+Alexander McQueen,41,$320,Alexander McQueen,Luxury,White,Leather,150,Men,Germany,6 months,Slip-on,Boot
+BOSS,42,$175,BOSS,Luxury,Black,Leather,140,Women,India,1 year,Buckle,Sandal
+Ted Baker,44,$160,Ted Baker,Luxury,White,Leather,130,Unisex,China,1 year,Lace-up,Sneaker
+Saint Laurent,45,$400,Saint Laurent,Luxury,Black,Leather,120,Men,Germany,6 months,Slip-on,Boot
+Valentino,46,$350,Valentino,Luxury,White,Leather,110,Women,India,1 year,Buckle,Sandal
+Jimmy Choo,40,$370,Jimmy Choo,Luxury,Black,Leather,100,Unisex,China,1 year,Lace-up,Sneaker
+Manolo Blahnik,39,$310,Manolo Blahnik,Luxury,Gray,Leather,90,Men,Germany,6 months,Slip-on,Boot
+Steve Madden,41,$85,Steve Madden,Casual,White,Synthetic,80,Women,India,1 year,Buckle,Sandal
+Coach,42,$190,Coach,Luxury,Black,Leather,190,Unisex,China,1 year,Lace-up,Sneaker
+Dr. Martens,44,$110,Dr. Martens,Casual,Brown,Synthetic,170,Men,Germany,6 months,Slip-on,Boot
+Timberland PRO,45,$130,Timberland,Casual,Black,Leather,160,Women,India,1 year,Buckle,Sandal
+Allen Edmonds,43,$210,Allen Edmonds,Luxury,Brown,Leather,150,Unisex,China,1 year,Lace-up,Sneaker
+Johnston & Murphy,42,$200,Johnston & Murphy,Formal,Black,Leather,140,Men,Germany,6 months,Slip-on,Boot
+Magnanni,41,$240,Magnanni,Formal,White,Leather,130,Women,India,1 year,Buckle,Sandal
+Cole Haan,44,$170,Cole Haan,Formal,Brown,Leather,120,Unisex,China,1 year,Lace-up,Sneaker
+Ecco,45,$180,Ecco,Formal,Black,Leather,110,Men,Germany,6 months,Slip-on,Boot
+Geox,40,$100,Geox,Formal,,,100,Women,India,1 year,Buckle,Sandal
