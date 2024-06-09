@@ -20,7 +20,7 @@ st.image('modern-residential-district-with-green-roof-balcony-generated-by-ai-re
 st.sidebar.image('3999989__1_-removebg-preview.png', width=300, caption='Welcome User')
 
 # Add divider and spacing
-st.sidebar.divider()
+# st.sidebar.divider()
 
 # Add a header for project background information with styled divider
 st.write(
