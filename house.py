@@ -21,7 +21,6 @@ st.sidebar.image('3999989__1_-removebg-preview.png', width=300, caption='Welcome
 
 # Add divider and spacing
 st.sidebar.divider()
-st.sidebar.markdown("<br>", unsafe_allow_html=True)
 
 # Add a header for project background information with styled divider
 st.write(
@@ -51,12 +50,9 @@ st.write(
 if st.checkbox('Show Raw Data'):
     st.write(df)
 
-
-st.sidebar.header('User Input Parameters')
-
 # Function to get user input
 def get_user_input():
-    input_choice = st.sidebar.radio('Choose Your Input Type', ['Slider Input', 'Number Input'])
+    input_choice = st.sidebar.radio('Select Your Input Type', ['Slider Input', 'Number Input'])
     
     if input_choice == 'Slider Input':
         area_income = st.sidebar.slider('Average Area Income', float(df['Avg. Area Income'].min()), float(df['Avg. Area Income'].max()))
